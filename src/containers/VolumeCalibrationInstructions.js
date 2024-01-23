@@ -69,14 +69,12 @@ class VolumeCalibrationInstructions extends Component {
             <header className="VolumeInstructions-header">
             <div className="text-container">
               <p className="VolumeInstructions-text">
-              BEFORE WE BEGIN: This game plays a white noise in the background. Rarely, it is intolerably loud at first.
-              <br /><br /> We will play the white noise for you. It should be loud but not intolerable.
-              <br /><br /> <b>Do not change your computer volume!</b>
-              <br /><br /> If the noise is <b>intolerable</b>, <b>press "E"</b> and we will decrease the volume and play it again.
-              <br /><br /> ONLY HIT "E" if you <b>absolutely need to</b>. REMEMBER it <b>should be loud</b>!
-              <br /><br /> You will have the option to hit "E" again if it is still intolerably loud
-              <br /><br /> If the <b>volume is tolerable</b> then  <b>press "Q"</b> and the game will continue!
-              <br /><br /> <b> Press Q to check the white noise volume</b> 
+              REMEMBER: First we may need to adjust the background white noise volume.
+              <br /><br /> Unless you are using a new computer/headaphones <b>please set the volume to the same as last time!</b>
+              <br /><br /> You should <b>press "E"</b> the <b>same number of times as you did before</b>.
+              <br /><br /> Once you decrease to the right level  <b>press "Q"</b> and the game will continue!
+              <br /><br /> If you did not decrease the volume last time, just <b>press "Q" on the first screen</b> to begin!
+              <br /><br /> <b> Press Q and you will hear the white noise and be ableto decrease it </b> 
               </p>
             </div>
             </header>
